@@ -4,7 +4,7 @@
  *
  * @param {List} l
  * @param {Number} k
- * @return {List}
+ * @return {*[]}
  *
  * @example
  * For l = [3, 1, 2, 3, 4, 5] and l = 3,
